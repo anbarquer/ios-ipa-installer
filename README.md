@@ -1,4 +1,4 @@
-<p>Install app's in devices (simulator or real)</p>
+<p>Install app in devices (simulator or real)</p>
 Requirements
  - XCode
  - [ideviceinstaller](http://macappstore.org/ideviceinstaller/)
