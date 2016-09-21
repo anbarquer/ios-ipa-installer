@@ -4,7 +4,7 @@ Requirements
  - [ideviceinstaller](http://macappstore.org/ideviceinstaller/)
  
 Execution
- - Grant execution permission and execute in terminal ./install_ipa.sh "absolute path to ipa"
+ - Grant execution permission and execute in terminal ./install_ipa.sh "absolute path to ipa" (without quotes)
 
 
 
