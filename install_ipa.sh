@@ -1,6 +1,5 @@
 #!/bin/bash
 # Install an app in a connected device
-# Prerrequisites --> XCode and ideviceinstaller installed
 if [ $# -ne 1 ]
 	then
 	echo "USAGE: $0 <IPA absolute path>" 
