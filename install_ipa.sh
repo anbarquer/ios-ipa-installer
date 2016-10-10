@@ -1,5 +1,4 @@
 #!/bin/bash
-# Install an app in a connected device
 if [ $# -ne 1 ]
 	then
 	echo "USAGE: $0 <IPA absolute path>" 
